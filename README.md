@@ -7,10 +7,6 @@ This was a course final project for Programming Languages and Design course at C
 
 ## How to Run the Program
 
-### Run it on Repl.it!
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=333964&assignment_repo_type=GroupAssignmentRepo)
-
-### Then Follow These Steps
 1. Make a `myprog.scm` file in the main folder, and put some Scheme code in it.
 2. Type `make` in the command line.
 3. Type `./interpreter < myprog.scm` in the command line.
