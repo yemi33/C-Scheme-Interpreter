@@ -16,6 +16,4 @@ This was a course final project for Programming Languages and Design course at C
 
 To check for memory errors, type `valgrind ./interpreter < myprog.scm` in the commandline.
 
-## Work in Repl.It
-
 
